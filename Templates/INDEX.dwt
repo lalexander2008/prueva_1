@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin t&iacute;tulo</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #CCCCCC;
+}
+.Estilo1 {color: #FFFFFF}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="800" height="127" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td background="../IMAGENES/ROTULO.png"><h1 align="center" class="Estilo1">artesania</h1></td>
+  </tr>
+</table>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#00FF99">
+  <tr bgcolor="#FFFFFF">
+    <td><div align="center"><a href="../INDEX.HTML"><img src="../IMAGENES/present.jpg" width="121" height="33" border="0" /></a><a href="../HISTORIA.HTML"><img src="../IMAGENES/historia.jpg" width="125" height="28" border="0" /></a><a href="../IMAGENES.HTML"><img src="../IMAGENES/IMAGENES.jpg" width="125" height="28" border="0" /><img src="../ofertas.jpg" width="125" height="28" border="0" /></a><a href="../OFERTAS.html"></a><a href="../VIDEOS.HTML"><img src="../IMAGENES/VIDEOS.jpg" width="125" height="28" border="0" /></a><a href="../PRODUCTO.HTML"></a><img src="../productos.jpg" width="125" height="28" border="0" /></div></td>
+  </tr>
+</table>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td background="../IMAGENES/pie.png" bgcolor="#FFFFFF"><div align="center">Derechos reservado /Alex,Limber,Maldonado</div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<h1>&nbsp;</h1>
+</body>
+</html>
